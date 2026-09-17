@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://owlaso.github.io/sitemap.xml

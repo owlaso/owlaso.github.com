@@ -1,0 +1,15 @@
+{
+  "name": "owlaso-landing",
+  "version": "1.0.0",
+  "description": "OwlASO — ASO keyword tracking & app store review analytics landing page",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
